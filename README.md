@@ -2,12 +2,9 @@
 
 [![npm version](https://img.shields.io/npm/v/sircus-tools-width.svg?style=flat)](https://www.npmjs.com/package/sircus-tools-width)
 
-
-> A width tools Module for Sircus.
-
 ## Installation
 
-> use npm:
+> npm:
 
 ```bash
 $ npm install sircus-tools-width
@@ -15,18 +12,18 @@ $ npm install sircus-tools-width
 
 ## Usage
 
-> use cssnext:
+> cssnext:
 
 input.css
 ```css
 @import "sircus-tools-width";
 ```
 
-> use sass:
+> sass:
 
 input.scss
-```css
-@import "node_modules/sircus-tools-width/converted";
+```scss
+@import "./node_modules/sircus-tools-width/converted";
 ```
 
 
