@@ -33,48 +33,6 @@ input.scss
 <div class="t-widthHalf"></div>
 <div class="t-widthFull"></div>
 
-<div class="t-width1of3"></div>
-<div class="t-width2of3"></div>
-
-<div class="t-width1of4"></div>
-<div class="t-width2of4"></div>
-<div class="t-width3of4"></div>
-
-<div class="t-width1of5"></div>
-<div class="t-width2of5"></div>
-<div class="t-width3of5"></div>
-<div class="t-width4of5"></div>
-
-<div class="t-width1of6"></div>
-<div class="t-width2of6"></div>
-<div class="t-width3of6"></div>
-<div class="t-width4of6"></div>
-<div class="t-width5of6"></div>
-
-<div class="t-width1of7"></div>
-<div class="t-width2of7"></div>
-<div class="t-width3of7"></div>
-<div class="t-width4of7"></div>
-<div class="t-width5of7"></div>
-<div class="t-width6of7"></div>
-
-<div class="t-width1of8"></div>
-<div class="t-width2of8"></div>
-<div class="t-width3of8"></div>
-<div class="t-width4of8"></div>
-<div class="t-width5of8"></div>
-<div class="t-width6of8"></div>
-<div class="t-width7of8"></div>
-
-<div class="t-width1of9"></div>
-<div class="t-width2of9"></div>
-<div class="t-width3of9"></div>
-<div class="t-width4of9"></div>
-<div class="t-width5of9"></div>
-<div class="t-width6of9"></div>
-<div class="t-width7of9"></div>
-<div class="t-width8of9"></div>
-
 <div class="t-width1of10"></div>
 <div class="t-width2of10"></div>
 <div class="t-width3of10"></div>
@@ -84,8 +42,19 @@ input.scss
 <div class="t-width7of10"></div>
 <div class="t-width8of10"></div>
 <div class="t-width9of10"></div>
-```
 
+<div class="t-width1of12"></div>
+<div class="t-width2of12"></div>
+<div class="t-width3of12"></div>
+<div class="t-width4of12"></div>
+<div class="t-width5of12"></div>
+<div class="t-width6of12"></div>
+<div class="t-width7of12"></div>
+<div class="t-width8of12"></div>
+<div class="t-width9of12"></div>
+<div class="t-width10of12"></div>
+<div class="t-width11of12"></div>
+```
 
 ## Contributing
 
